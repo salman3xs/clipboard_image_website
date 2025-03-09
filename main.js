@@ -8,7 +8,7 @@ document.querySelector('#app').innerHTML = `
         <h1>Clipboard Image</h1>
       </div>
       <nav>
-        <a href="#features" class="button">Get Started</a>
+        <a href="https://pub.dev/packages/clipboad_image" class="button">Get Started</a>
       </nav>
     </div>
   </header>
@@ -101,25 +101,17 @@ if (image != null) {
       <div class="footer-links">
         <h3>Documentation</h3>
         <ul>
-          <li><a href="#">API Reference</a></li>
-          <li><a href="#">Examples</a></li>
-          <li><a href="#">Getting Started</a></li>
+          <li><a href="https://pub.dev/packages/clipboad_image#usage">API Reference</a></li>
+          <li><a href="https://pub.dev/packages/clipboad_image/example">Examples</a></li>
+          <li><a href="https://pub.dev/packages/clipboad_image">Getting Started</a></li>
         </ul>
       </div>
       <div class="footer-links">
         <h3>Resources</h3>
         <ul>
-          <li><a href="https://github.com/example/clipboard_image">GitHub</a></li>
-          <li><a href="https://pub.dev/packages/clipboard_image">pub.dev</a></li>
-          <li><a href="#">Changelog</a></li>
-        </ul>
-      </div>
-      <div class="footer-links">
-        <h3>Community</h3>
-        <ul>
-          <li><a href="#">Stack Overflow</a></li>
-          <li><a href="#">Discord</a></li>
-          <li><a href="#">Twitter</a></li>
+          <li><a href="https://github.com/salman3xs/clipboard_image">GitHub</a></li>
+          <li><a href="https://pub.dev/packages/clipboad_image">pub.dev</a></li>
+          <li><a href="https://pub.dev/packages/clipboad_image/changelog">Changelog</a></li>
         </ul>
       </div>
     </div>
